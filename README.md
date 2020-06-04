@@ -1,6 +1,7 @@
-# Series 
+# Series_math
+    By [Lee-Roy King](https://github.com/leeroywking)
 
-## Task
+## Task / Description
     - All futher tasks should be driven by TDD
     - Create a function that will return the nth fibonacci number
     - Create a function that will return the nth lucas number
@@ -10,7 +11,14 @@
     - write each function iteratively and recursively
     - 100% code coverage
 
-```bash
+## turn in pr
+    - https://github.com/leeroywking/math-series/pull/1
+
+
+## License - MIT
+
+
+```
 
 (math-series-M3lhcFER-py3.8) lee@lee-XPS-13-9300:~/math-series$ pytest --cov=mmath_series tests/
 =========================================== test session starts ============================================
